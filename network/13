@@ -1,0 +1,4 @@
+# for OUTPUT in $(ifconfig en0 | grep "inet " | awk '{print $2}');
+# do nslookup $OUTPUT | grep "name =" | awk '{print $4}'; done
+
+# Run this command and output is host name
