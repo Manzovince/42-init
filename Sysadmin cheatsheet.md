@@ -6,18 +6,31 @@ Discover the basic system and network commands as well as the many services used
 ___
 ## Basic commands
 man top: List process
+
 man ps: Show process status
+
 man kill: Kill process
+
 man df: Display free disk space
+
 man ifconfig: Configure network interface parameters
+
 man ping: send ICMP ECHO_REQUEST packets to network hosts
+
 man netstat:
+
 man route:
+
 man traceroute:
+
 man hosts:
+
 man networks:
+
 man host.conf:
+
 man resolv.conf:
+
 man interfaces:
 
 ___
