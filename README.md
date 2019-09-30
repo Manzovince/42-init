@@ -16,24 +16,24 @@ Discover the basic system and network commands as well as the many services used
 
 **ping**: send ICMP ECHO_REQUEST packets to network hosts
 
-**netstat**:
+**netstat**: Show Network status
 
-**route**:
+**route**: Manually manipulate the routing tables
 
-**traceroute**:
+**traceroute**: Print the route packets take to network host
 
-**hosts**:
+**hosts**: host name data base
 
-**networks**:
+**networks**: network name data base
 
-**host.conf**:
+**host.conf**: 
 
-**resolv.conf**:
+**resolv.conf**: File with hostnames
 
-**interfaces**:
+**interfaces**: 
 
 
-## Some examples
+## Some examples / Useful commands
 Liste des interfaces réseau: `ifconfig -l`
 
 Statut du réseau: `netstat`
@@ -47,7 +47,7 @@ en0 : interface Ethernet
 en1: carte Wi-Fi
 
 
-## LINKS
+## Links
 - [101 commandes UNIX](https://buzut.net/101-commandes-indispensables-sous-linux/)
 - [Installer Debian](https://cdiese.fr/installation-de-debian-sur-une-machine-virtuelle-virtualbox/)
 - [Fonctionnement général d'un réseau](https://openclassrooms.com/fr/courses/1561696-les-reseaux-de-zero/1561759-les-reseaux-presentation-generale)
