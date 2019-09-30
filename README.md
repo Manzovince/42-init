@@ -32,7 +32,7 @@ Discover the basic system and network commands as well as the many services used
 
 **interfaces**:
 
-___
+
 ## Some examples
 Liste des interfaces réseau: `ifconfig -l`
 
@@ -45,6 +45,7 @@ Requêtes serveurs: `nslookup`
 en0 : interface Ethernet
 
 en1: carte Wi-Fi
+
 
 ## LINKS
 - [101 commandes UNIX](https://buzut.net/101-commandes-indispensables-sous-linux/)
