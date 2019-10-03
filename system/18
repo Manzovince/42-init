@@ -1,1 +1,3 @@
+#service ssh stop
+#pkill ssh
 systemctl stop ssh
