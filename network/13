@@ -2,3 +2,6 @@
 # do nslookup $OUTPUT | grep "name =" | awk '{print $4}'; done
 
 # Run this command and output is host name
+
+# Example:
+e2r11p16.42.fr

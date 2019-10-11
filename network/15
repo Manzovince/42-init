@@ -1,10 +1,11 @@
-> cat /etc/hosts
+# Edit the file /etc/hosts
 
-> ##
-> # Host Database
-> #
-> # localhost is used to configure the loopback interface
-> # when the system is booting.  Do not change this entry.
-> ##
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
 
-Add or replace IP Address on the line intra.42.fr with 46.19.122.85
+# Add or replace IP Address with:
+#	46.19.122.85	intra.42.fr
