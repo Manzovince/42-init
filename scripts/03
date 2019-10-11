@@ -32,6 +32,7 @@ More details in the code..."; exit 1; }
 
 ################################################################################
 # VARIABLES
+# You can replace EMPTY with the path of your libft and your model.
 ################################################################################
 
 PROJECT_NAME=$1
