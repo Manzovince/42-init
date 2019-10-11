@@ -1,1 +1,2 @@
-systemctl status ssh | grep 'Main PID:'
+service ssh restart | grep 'Main PID:'
+# ps -A | grep sshd | awk '{print $1}'

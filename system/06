@@ -1,2 +1,2 @@
-#service ssh restart
-systemctl restart ssh
+service ssh restart
+# systemctl restart ssh

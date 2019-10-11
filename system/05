@@ -1,2 +1,2 @@
-#service ssh status
-systemctl status ssh
+service ssh status
+# systemctl status ssh

@@ -1,0 +1,6 @@
+# Graphic session:
+#	click the icon on bottom left corner
+#	leave/switch user (or log out)
+
+# Ssh session:
+#	ssh username@ipaddress

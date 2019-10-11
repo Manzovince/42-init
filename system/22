@@ -1,2 +1,2 @@
-#useradd username
+# useradd username
 adduser username
