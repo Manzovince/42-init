@@ -1,5 +1,9 @@
 #!/bin/bash
 
-read -p "Entrez le nom de l'utilisateur a supprimer: " USER
+if [ $# -eq 0 ]; then
+	read -p "Entrez le nom de l'utilisateur a supprimer: " USER
+else
+	USER=$1
+fi
 pgrep -u $USER | while read PID; do sudo kill $PID; done
-sudo userdel $USER
+sudo userdel -r $USER

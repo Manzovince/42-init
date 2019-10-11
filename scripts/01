@@ -1,2 +1,3 @@
 #!/bin/bash
-cat /etc/passwd | awk -F ":" '{print $1 " " $3 " " $6}' | column -t
+# cat /etc/passwd | cut -d: -f1,3,7
+cat /etc/passwd | awk -F ":" '{print $1 " " $3 " " $6}' | column -t | tail -n +11
