@@ -1,7 +1,10 @@
-# System Administration Cheatsheet
+# Project 42-init
 
-> Project 42-init
+> :point_up: **Halte!** Si tu es à l'école 42 et que tu n'as pas encore fini ce projet, sache que faire fonctionner ton cerveau te sera plus utile que recopier ce que j'ai fait!
+
 Discover the basic system and network commands as well as the many services used on a server machine, and some scripting ideas that can be useful on a daily basis for an adminsys.
+
+# System Administration Cheatsheet
 
 ## Basic commands
 **top**: List process
